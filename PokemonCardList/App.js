@@ -1,5 +1,5 @@
 /*
-NOME DO PROJETO: PokemonCardList                                                            
+NOME DO PROJETO: PokemonCardList - App                                                            
 AUTOR DO PROJETO: Leonardo Severino  
 DATA DE CRIAÇÃO: 10/09/2024 - 16:16:51
 DESCRIÇÃO:
