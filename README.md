@@ -1,5 +1,5 @@
 ## DADOS DO PROJETO
-- **Nome:** PokemonCardList 
+- **Nome:** PokemonCardList; 
 - **Autor:** Leonardo Severino - leoseverino0901@gmail.com;
 - **Data de Criação:** 10/09/2024 - 16:16:51;
     
