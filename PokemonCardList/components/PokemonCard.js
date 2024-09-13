@@ -3,7 +3,7 @@ NOME DO PROJETO: PokemonCardList - PokemonCard
 AUTOR DO PROJETO: Leonardo Severino  
 DATA DE CRIAÇÃO: 10/09/2024 - 16:16:51
 DESCRIÇÃO:
-  Um programa em React native que exibe uma lista de cartas de Pokemon com suas informações detalhadas. 
+  Componente que representa a carta de um Pokemon com suas informações detalhadas de nome, figura, tipo, pontos de vida, golpes e fraquezas. 
 */
 
 //Importa as bibliotecas
