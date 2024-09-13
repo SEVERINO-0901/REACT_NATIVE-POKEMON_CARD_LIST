@@ -1,7 +1,7 @@
 /*
 NOME DO PROJETO: PokemonCardList - PokemonCard                                                           
-AUTOR DO PROJETO: Leonardo Severino  
-DATA DE CRIAÇÃO: 10/09/2024 - 16:16:51
+AUTOR: Leonardo Severino  
+DATA: 10/09/2024 - 16:16:51
 DESCRIÇÃO:
   Componente que representa a carta de um Pokemon com suas informações detalhadas de nome, figura, tipo, pontos de vida, golpes e fraquezas. 
 */
